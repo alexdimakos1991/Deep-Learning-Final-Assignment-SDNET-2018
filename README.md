@@ -1,5 +1,5 @@
 # Deep-Learning-Final-Assignment-SDNET-2018
-Final Assignment for Deep Learning Course
+
 Here’s a clear description of the process for training and evaluating a deep learning model for crack detection using the SDNET2018 dataset:
 
 1. Dataset Preparation
